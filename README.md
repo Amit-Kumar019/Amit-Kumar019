@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20There,%20I'm%20Amit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Building%20things%20that%20matter&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=CS+Student+%7C+B.Tech+AI%26ML+%40+KIET;B.S.+Data+Science+%40+IIT+Madras;MERN+Stack+%7C+Real-Time+Systems+%7C+AI+Integrations;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Crafting+Scalable+Web+Apps;Building+Robust+APIs;Transforming+Ideas+Into+Code" alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Kumar%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkrverma19/)
@@ -19,8 +18,7 @@
 <table>
 <tr>
 <td width="60%" valign="top">
- 
-> *"I turn side projects into portfolio flexes."*
+
  
 I'm a full-stack developer and AI/ML enthusiast who gravitates toward **ambitious, technically differentiated builds** — the kind that make recruiters stop scrolling. Currently balancing two degrees while shipping real-time systems and AI-powered products on the side.
  
